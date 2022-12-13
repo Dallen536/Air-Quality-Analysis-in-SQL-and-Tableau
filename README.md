@@ -1,2 +1,11 @@
 # MSBX-5405-Structured-Data
 
+Course team database project: We utilized SQL to build and analyze a database for Air Quality data
+
+The main theme of our project is Air Quality in the US and how that may be impacted by a few different factors, including different types of energy consumption and production. We decided to focus on three types of energy being consumed and produced in the US. Those are coal, hydro energy, natural gas, and liquefied petroleum gas. One of the reasons we decided to pursue this subject is over the past year we have seen numerous Air Quality alerts issued across Colorado. While we know that a lot of those issues were a result of wildfires further West, we thought learning a little more about other factors that could affect Air Quality would be an interesting topic to explore.
+
+We have three main goals with this research project. The first goal is to complete some analysis on each type of energy selected, the consumption and production of that energy, and see if there is any correlation between poor or good AQI where certain energies are being produced and consumed. We will look at each year from 2010 through 2014 and compare the level of energy consumption and production to the AQI for that State. Since the AQI locations are at a county level and the energy data is at the state level, we will take the average AQI across all counties in the State and use that to compare.
+
+The second goal is to compare the Census data with the Air Quality data to see how a higher or lower population estimate may affect the Air Quality Index. This comparison could also provide some insight into whether or not a poor AQI results in lower population or vice versa. As with the Energy data, we would need to use the average AQI across all Counties in a State to compare the census data more accurately with the AQI data. We may also compare other census related data at this point, such as Death Rate to se if there is any correlation between the two.
+
+Our third goal is to just review the data and see what sort of connections we can make between types of energies being produced and consumed, as well as seeing if we can find any interesting correlations between energy,census, and overall AQI ratings. 
