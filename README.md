@@ -1,6 +1,6 @@
-# MSBX-5405-Structured-Data
+# MSBX 5405 Structured-Data - Course Group Project
 
-Course team database project: We utilized SQL to build and analyze a database for Air Quality data
+We utilized SQL to build and analyze a database for Air Quality data
 
 The main theme of our project is Air Quality in the US and how that may be impacted by a few different factors, including different types of energy consumption and production. We decided to focus on three types of energy being consumed and produced in the US. Those are coal, hydro energy, natural gas, and liquefied petroleum gas. One of the reasons we decided to pursue this subject is over the past year we have seen numerous Air Quality alerts issued across Colorado. While we know that a lot of those issues were a result of wildfires further West, we thought learning a little more about other factors that could affect Air Quality would be an interesting topic to explore.
 
