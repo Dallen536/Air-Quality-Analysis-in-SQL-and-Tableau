@@ -1,4 +1,4 @@
-# MSBX 5405 Structured-Data - Course Group Project
+# MSBX 5405 Structured Data - Course Group Project
 
 We utilized SQL to build and analyze a database for Air Quality data
 
